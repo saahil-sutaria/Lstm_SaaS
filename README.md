@@ -1,1 +1,4 @@
-# Activity_Recognotion-
+# Activity_Recognotion - LSTM
+
+
+ 
